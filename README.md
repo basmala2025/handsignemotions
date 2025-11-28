@@ -8,16 +8,10 @@ Hand Pose Estimation.
 Emotion Classification: Classifies the hand pose .
 Interactive Streamlit Demo: A web interface supporting image uploads and live webcam input for real-time testing.
 
-Tech Stack
-Component,Technology Used,Purpose
-Pose Detection,"[Mention the library used: MediaPipe, OpenCV, etc.]",Keypoint extraction and tracking.
-Model Framework,"[Mention the framework: TensorFlow/Keras, PyTorch, etc.]",Training and inference of the classification model.
-Web Interface,Streamlit,Creating the easy-to-use GUI for visualization
-
-
 📞 Contact
 For questions or feedback:
 
 Name: Basmala Ahmed Atta
 
 GitHub: basmala2025
+
