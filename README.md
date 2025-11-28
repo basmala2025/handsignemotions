@@ -1,5 +1,8 @@
- Hand Sign Emotion Pose Estimation
+ ****Hand Sign Emotion Pose Estimation****
+
+ 
  Project Overview
+
 This project is an end-to-end computer vision application designed to analyze hand pose and classify the corresponding emotional sign (e.g., Happy, Angry, Sad). The goal is to transform a core ML model into a sharable, interactive web application using Streamlit.
 
 💡 Key Features
@@ -14,4 +17,5 @@ For questions or feedback:
 Name: Basmala Ahmed Atta
 
 GitHub: basmala2025
+
 
